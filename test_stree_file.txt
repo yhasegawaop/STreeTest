@@ -6,3 +6,4 @@ issue2変更
 issue2?2
 ts1_branch
 ts2_branch
+kyou2_branch

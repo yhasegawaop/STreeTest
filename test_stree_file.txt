@@ -32,3 +32,4 @@ kuti追加
 hige_1　追加
 hige_2　追加
 kubi_1　追加
+kubi_2　追加

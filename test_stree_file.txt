@@ -18,3 +18,4 @@ b3_branch
 master
 bug1
 master_branch
+sub1_branch

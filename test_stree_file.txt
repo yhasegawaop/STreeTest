@@ -26,3 +26,4 @@ sub3_rebase
 master_rebase4
 sub4_branch
 fetch_test
+stash_mae

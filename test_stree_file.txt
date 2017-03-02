@@ -22,3 +22,4 @@ sub1_branch
 master_rebase
 sub2_rebase
 master_rebase3
+sub3_rebase

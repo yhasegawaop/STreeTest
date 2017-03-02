@@ -19,3 +19,4 @@ master
 bug1
 master_branch
 sub1_branch
+master_rebase

@@ -28,3 +28,4 @@ sub4_branch
 fetch_test
 stash_mae
 sta_branch
+kuti追加

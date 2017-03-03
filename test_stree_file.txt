@@ -34,3 +34,4 @@ hige_2　追加
 atama　追加
 kubi_1　追加
 master追加
+bug_f1 1修正

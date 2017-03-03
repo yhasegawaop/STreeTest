@@ -48,3 +48,4 @@ master bug3 4コミット
 bug_f3 4コミット
 bug_f3 5コミット
 bug_f3 6コミット
+master schashテスト

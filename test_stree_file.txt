@@ -42,3 +42,4 @@ bug_f2 1修正
 bug_f2 2修正
 bug_f2 3修正
 bug_f3 1コミット
+bug_f3 2コミット

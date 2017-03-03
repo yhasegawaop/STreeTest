@@ -45,3 +45,4 @@ bug_f3 1コミット
 bug_f3 2コミット
 bug_f3 3コミット
 master bug3 4コミット
+bug_f3 4コミット

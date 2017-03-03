@@ -38,3 +38,4 @@ bug_f1 1修正
 bug_f1 2修正
 bug_f1 3修正
 master追加 bugf2用
+bug_f2 1修正

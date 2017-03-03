@@ -50,3 +50,6 @@ bug_f3 5コミット
 bug_f3 6コミット
 master schashテスト
 sucash_1 1コミット
+sucash_1 2コミット
+sucash_1 3コミット
+sucash_1 4コミット
